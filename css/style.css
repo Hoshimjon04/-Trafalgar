@@ -37,6 +37,9 @@
     text-decoration: none;
     box-sizing: border-box;
 }
+html{
+   background-color: teal; 
+}
 body {
     font-family: "Mulish" , sans-serif;
 }
@@ -58,8 +61,6 @@ body {
 }
 .header-logo-link {
     display: inline-block;
-}
-.header-navbar {
 }
 .header-list{
     display: flex;
